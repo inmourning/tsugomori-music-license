@@ -5,7 +5,7 @@ This license applies to all music released under the artist names Tsugomori and 
 ## You are free to:
 Use the music in any project, including commercial ones (e.g., games, videos, livestreams, events).
 
-Modify, remix, adapt, or transform the music for your own use.
+Modify, remix, adapt, or transform the music.
 
 Monetize derivative works (e.g., YouTube videos, games, or media that incorporate or modify the music).
 
