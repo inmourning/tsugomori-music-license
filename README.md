@@ -1,4 +1,4 @@
-# This is a license that applies to ALL of my music projects, currently: Tsugomori and IMSORRYCUTEFOX.
+This is a license that applies to ALL of my music projects, currently: Tsugomori and IMSORRYCUTEFOX.
 
 # ENGLISH VERSION:
 ## Tsugomori Music License
