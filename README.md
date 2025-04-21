@@ -23,4 +23,4 @@ This license is revocable at any time, for any reason. Continued use after revoc
 
 By using this music, you agree to these terms.
 
-© Tsugomori. All rights reserved.
+© Piotr Laurman. All rights reserved.
