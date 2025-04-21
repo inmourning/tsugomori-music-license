@@ -57,3 +57,4 @@ Niniejsza licencja może zostać odwołana w dowolnym momencie, bez podania przy
 Korzystając z tej muzyki, akceptujesz powyższe warunki.
 
 © Piotr Laurman. Wszelkie prawa zastrzeżone.
+
