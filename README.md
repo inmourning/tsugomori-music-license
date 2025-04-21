@@ -32,29 +32,30 @@ By using this music, you agree to these terms.
 ## Licencja Muzyczna Tsugomori
 Niniejsza licencja dotyczy wszystkich utworów muzycznych wydanych pod nazwami artystycznymi Tsugomori oraz IMSORRYCUTEFOX, chyba że zaznaczono inaczej.
 
-### Masz prawo do:
+### Możesz:
 
-Wykorzystywania muzyki w dowolnym projekcie, w tym komercyjnym (np. gry, filmy, transmisje na żywo, wydarzenia).
+Używać muzyki w dowolnym projekcie, w tym komercyjnym (np. gry, filmy, transmisje na żywo, wydarzenia).
 
-Modyfikowania, remiksowania, adaptowania lub przekształcania muzyki.
+Modyfikować, remiksować, adaptować lub przekształcać muzykę.
 
-Monetyzowania utworów pochodnych (np. filmy na YouTube, gry lub inne media zawierające lub modyfikujące muzykę).
+Monetyzować dzieła pochodne (np. filmy na YouTube, gry lub media, które zawierają lub modyfikują muzykę).
 
-### Nie masz prawa do:
+### Nie możesz:
 
-Ponownego rozpowszechniania oryginalnych, niemodyfikowanych utworów w celu osiągnięcia korzyści komercyjnych (np. wgrania albumu na Spotify lub odsprzedaży oryginalnych plików).
+Redystrybuować oryginalnych, niemodyfikowanych utworów w celach komercyjnych (np. przesyłanie albumu na Spotify lub odsprzedaż oryginalnych plików).
 
-Wykorzystywania muzyki lub jej fragmentów do uczenia modeli uczenia maszynowego lub systemów sztucznej inteligencji, niezależnie od intencji lub statusu komercyjnego.
+Używać muzyki lub jej fragmentów do trenowania modeli uczenia maszynowego lub systemów sztucznej inteligencji, niezależnie od celu lub statusu komercyjnego.
 
-Przywłaszczania autorstwa oryginalnych utworów.
+Twierdzić, że jesteś autorem oryginalnych utworów.
 
 ### Dodatkowe warunki:
 
-Oznaczenie autorstwa nie jest wymagane.
+Podanie autora nie jest wymagane.
 
-Niniejsza licencja może zostać odwołana w dowolnym momencie, bez podania przyczyny. Kontynuowanie korzystania z muzyki po odwołaniu licencji może stanowić naruszenie praw autorskich.
+Ta licencja może zostać cofnięta w dowolnym momencie, z dowolnego powodu. Dalsze korzystanie po cofnięciu może stanowić naruszenie praw autorskich.
 
-Korzystając z tej muzyki, akceptujesz powyższe warunki.
+Korzystając z tej muzyki, zgadzasz się na te warunki.
 
 © Piotr Laurman. Wszelkie prawa zastrzeżone.
+
 
