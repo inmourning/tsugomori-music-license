@@ -5,7 +5,7 @@ Niniejsza licencja dotyczy wszystkich utworów muzycznych wydanych pod nazwami a
 
 Wykorzystywania muzyki w dowolnym projekcie, w tym komercyjnym (np. gry, filmy, transmisje na żywo, wydarzenia).
 
-Modyfikowania, remiksowania, adaptowania lub przekształcania muzyki na własne potrzeby.
+Modyfikowania, remiksowania, adaptowania lub przekształcania muzyki.
 
 Monetyzowania utworów pochodnych (np. filmy na YouTube, gry lub inne media zawierające lub modyfikujące muzykę).
 
