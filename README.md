@@ -50,7 +50,7 @@ Przywłaszczania autorstwa oryginalnych utworów.
 
 ### Dodatkowe warunki:
 
-Atrybucja nie jest wymagana.
+Oznaczenie autorstwa nie jest wymagane.
 
 Niniejsza licencja może zostać odwołana w dowolnym momencie, bez podania przyczyny. Kontynuowanie korzystania z muzyki po odwołaniu licencji może stanowić naruszenie praw autorskich.
 
