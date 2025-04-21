@@ -46,7 +46,7 @@ Ponownego rozpowszechniania oryginalnych, niemodyfikowanych utworów w celu osi�
 
 Wykorzystywania muzyki lub jej fragmentów do uczenia modeli uczenia maszynowego lub systemów sztucznej inteligencji, niezależnie od intencji lub statusu komercyjnego.
 
-Przeciągania autorstwa oryginalnych utworów.
+Przywłaszczania autorstwa oryginalnych utworów.
 
 ### Dodatkowe warunki:
 
