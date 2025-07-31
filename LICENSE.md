@@ -12,8 +12,6 @@ Monetize derivative works (e.g., YouTube videos, games, or media that incorporat
 ## You may not:
 Redistribute the original, unmodified tracks for commercial gain (e.g., uploading an album to Spotify or reselling the original files).
 
-Use the music or any part of it in the training of machine learning models or artificial intelligence systems, regardless of intent or commercial status.
-
 Claim authorship of the original works.
 
 ## Additional Terms:
