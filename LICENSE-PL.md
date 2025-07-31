@@ -13,8 +13,6 @@ Monetyzować dzieła pochodne (np. filmy na YouTube, gry lub media, które zawie
 
 Redystrybuować oryginalnych, niemodyfikowanych utworów w celach komercyjnych (np. przesyłanie albumu na Spotify lub odsprzedaż oryginalnych plików).
 
-Używać muzyki lub jej fragmentów do trenowania modeli uczenia maszynowego lub systemów sztucznej inteligencji, niezależnie od celu lub statusu komercyjnego.
-
 Twierdzić, że jesteś autorem oryginalnych utworów.
 
 ## Dodatkowe warunki:
